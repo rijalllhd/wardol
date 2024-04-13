@@ -188,14 +188,14 @@ color: var(--text-color);
 }
 
 .logo-icon{
-    background-image: url('../assets/images/Wardol(1).png');
+    background-image: url('../assets/images/Wardol(1).svg');
     width: 150px;
     height: 75px;
     margin-top: 5px;
 }
 
 .inverted .logo-icon{
-    background-image: url('../assets/images/Wardol.png');
+    background-image: url('../assets/images/Wardol.svg');
     width: 150px;
     height: 75px;
     margin-top: 5px;
